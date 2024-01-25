@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+﻿Hi my name is Shreyash
+This file is created by Pratham
+This file is modified by shreyash
+=======
+﻿Hi my name is Vinayak
+This file is created by Pratham
+This file is modified by vinayak
+>>>>>>> branch2
